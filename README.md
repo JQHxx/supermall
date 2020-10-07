@@ -1,5 +1,19 @@
 # supermall
 
+##	主页	
+
+![image-20201007103832963](C:\Users\Lsw\AppData\Roaming\Typora\typora-user-images\image-20201007103832963.png)
+
+##	详细页
+
+![image-20201007103933559](C:\Users\Lsw\AppData\Roaming\Typora\typora-user-images\image-20201007103933559.png)
+
+​	
+
+## 购物车页	
+
+![image-20201007104023956](C:\Users\Lsw\AppData\Roaming\Typora\typora-user-images\image-20201007104023956.png)
+
 ## Project setup
 ```
 npm install
