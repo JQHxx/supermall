@@ -2,17 +2,15 @@
 
 ##	主页	
 
-![image-20201007103832963](C:\Users\Lsw\AppData\Roaming\Typora\typora-user-images\image-20201007103832963.png)
+![0cf18cc9013573ce8c43342757d645c](README.assets/0cf18cc9013573ce8c43342757d645c.png)
 
 ##	详细页
 
-![image-20201007103933559](C:\Users\Lsw\AppData\Roaming\Typora\typora-user-images\image-20201007103933559.png)
-
-​	
+![f14f9fffe95520dd7fbc09346857091](README.assets/f14f9fffe95520dd7fbc09346857091-1603370959068.png)
 
 ## 购物车页	
 
-![image-20201007104023956](C:\Users\Lsw\AppData\Roaming\Typora\typora-user-images\image-20201007104023956.png)
+![94e157800fb5889e366752721fe14d8](README.assets/94e157800fb5889e366752721fe14d8.png)
 
 ## Project setup
 ```
